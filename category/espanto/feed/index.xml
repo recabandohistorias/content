@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Terror &#8211; Recabando historias</title>
+	<atom:link href="https://recabandohistorias.github.io/content/category/espanto/feed/" rel="self" type="application/rss+xml" />
+	<link>https://recabandohistorias.github.io/content/</link>
+	<description>Todo sobre historias, relatos y otras creaciones</description>
+	<lastBuildDate>Wed, 29 Jun 2022 02:41:05 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.10</generator>
+
+<image>
+	<url>https://recabandohistorias.github.io/content/wp-content/uploads/2020/10/cropped-Logolacre-2-32x32.png</url>
+	<title>Terror &#8211; Recabando historias</title>
+	<link>https://recabandohistorias.github.io/content/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Noche sombría</title>
+		<link>https://recabandohistorias.github.io/content/noche-sombria/</link>
+					<comments>https://recabandohistorias.github.io/content/noche-sombria/#respond</comments>
+		
+		<dc:creator><![CDATA[MQ]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2020 21:59:50 +0000</pubDate>
+				<category><![CDATA[Terror]]></category>
+		<category><![CDATA[Misterio]]></category>
+		<category><![CDATA[terror]]></category>
+		<guid isPermaLink="false">https://recabandohistorias.github.io/content/?p=418</guid>
+
+					<description><![CDATA[<p>La entrada <a rel="nofollow" href="https://recabandohistorias.github.io/content/noche-sombria/">Noche sombría</a> se publicó primero en <a rel="nofollow" href="https://recabandohistorias.github.io/content/">Recabando historias</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="650" height="470" src="https://recabandohistorias.github.io/content/wp-content/uploads/2020/10/NocheSombria.jpg" alt="" class="wp-image-420" srcset="https://recabandohistorias.github.io/content/wp-content/uploads/2020/10/NocheSombria.jpg 650w, https://recabandohistorias.github.io/content/wp-content/uploads/2020/10/NocheSombria-300x217.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /><figcaption>Salieron apresurados de la casa aquella noche lúgubre de octubre&#8230; <br><a href="https://recabandohistorias.github.io/content/noche-sombria/">Leer más</a></figcaption></figure>
+<p>La entrada <a rel="nofollow" href="https://recabandohistorias.github.io/content/noche-sombria/">Noche sombría</a> se publicó primero en <a rel="nofollow" href="https://recabandohistorias.github.io/content/">Recabando historias</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://recabandohistorias.github.io/content/noche-sombria/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

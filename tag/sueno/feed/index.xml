@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sueño &#8211; Recabando historias</title>
+	<atom:link href="https://recabandohistorias.github.io/content/tag/sueno/feed/" rel="self" type="application/rss+xml" />
+	<link>https://recabandohistorias.github.io/content/</link>
+	<description>Todo sobre historias, relatos y otras creaciones</description>
+	<lastBuildDate>Thu, 16 Dec 2021 04:57:15 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.10</generator>
+
+<image>
+	<url>https://recabandohistorias.github.io/content/wp-content/uploads/2020/10/cropped-Logolacre-2-32x32.png</url>
+	<title>sueño &#8211; Recabando historias</title>
+	<link>https://recabandohistorias.github.io/content/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Avanzaré ¡Sin miedo!</title>
+		<link>https://recabandohistorias.github.io/content/vencer/</link>
+					<comments>https://recabandohistorias.github.io/content/vencer/#respond</comments>
+		
+		<dc:creator><![CDATA[MQ]]></dc:creator>
+		<pubDate>Mon, 22 Mar 2021 03:20:14 +0000</pubDate>
+				<category><![CDATA[Misterio]]></category>
+		<category><![CDATA[sin temor]]></category>
+		<category><![CDATA[sueño]]></category>
+		<guid isPermaLink="false">https://recabandohistorias.github.io/content/?p=485</guid>
+
+					<description><![CDATA[<p>La entrada <a rel="nofollow" href="https://recabandohistorias.github.io/content/vencer/">Avanzaré ¡Sin miedo!</a> se publicó primero en <a rel="nofollow" href="https://recabandohistorias.github.io/content/">Recabando historias</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="641" src="https://recabandohistorias.github.io/content/wp-content/uploads/2021/03/CuentoImg2-1-1024x641.jpg" alt="" class="wp-image-486" srcset="https://recabandohistorias.github.io/content/wp-content/uploads/2021/03/CuentoImg2-1-1024x641.jpg 1024w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/03/CuentoImg2-1-300x188.jpg 300w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/03/CuentoImg2-1-768x481.jpg 768w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/03/CuentoImg2-1-900x563.jpg 900w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/03/CuentoImg2-1.jpg 1150w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Al entrar a mi casa, me encuentro con la sorpresa de que la cochera donde mi padre estaciona su camión hay un abismo el cual&#8230; <br><a href="https://recabandohistorias.github.io/content/abismo-ho/">Ver mas</a><br> </figcaption></figure>
+<p>La entrada <a rel="nofollow" href="https://recabandohistorias.github.io/content/vencer/">Avanzaré ¡Sin miedo!</a> se publicó primero en <a rel="nofollow" href="https://recabandohistorias.github.io/content/">Recabando historias</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://recabandohistorias.github.io/content/vencer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

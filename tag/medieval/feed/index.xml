@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>medieval &#8211; Recabando historias</title>
+	<atom:link href="https://recabandohistorias.github.io/content/tag/medieval/feed/" rel="self" type="application/rss+xml" />
+	<link>https://recabandohistorias.github.io/content/</link>
+	<description>Todo sobre historias, relatos y otras creaciones</description>
+	<lastBuildDate>Thu, 16 Dec 2021 04:57:55 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.10</generator>
+
+<image>
+	<url>https://recabandohistorias.github.io/content/wp-content/uploads/2020/10/cropped-Logolacre-2-32x32.png</url>
+	<title>medieval &#8211; Recabando historias</title>
+	<link>https://recabandohistorias.github.io/content/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Viaje al pasado</title>
+		<link>https://recabandohistorias.github.io/content/viaje-al-pasado/</link>
+					<comments>https://recabandohistorias.github.io/content/viaje-al-pasado/#respond</comments>
+		
+		<dc:creator><![CDATA[MQ]]></dc:creator>
+		<pubDate>Sat, 26 Dec 2020 00:44:27 +0000</pubDate>
+				<category><![CDATA[Misterio]]></category>
+		<category><![CDATA[gárgola]]></category>
+		<category><![CDATA[medieval]]></category>
+		<category><![CDATA[pasado]]></category>
+		<guid isPermaLink="false">https://recabandohistorias.github.io/content/?p=460</guid>
+
+					<description><![CDATA[<p>Una tarde de octubre los socios de un club emprendieron el viaje a &#8230; Leer más</p>
+<p>La entrada <a rel="nofollow" href="https://recabandohistorias.github.io/content/viaje-al-pasado/">Viaje al pasado</a> se publicó primero en <a rel="nofollow" href="https://recabandohistorias.github.io/content/">Recabando historias</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="576" height="400" src="https://recabandohistorias.github.io/content/wp-content/uploads/2020/12/castilloCuento.jpg" alt="" class="wp-image-461" srcset="https://recabandohistorias.github.io/content/wp-content/uploads/2020/12/castilloCuento.jpg 576w, https://recabandohistorias.github.io/content/wp-content/uploads/2020/12/castilloCuento-300x208.jpg 300w" sizes="(max-width: 576px) 100vw, 576px" /></figure>
+
+
+
+<p>Una tarde de octubre los socios de un club emprendieron el viaje a &#8230;</p>
+
+
+
+<p class="has-text-align-center"><a href="https://recabandohistorias.github.io/content/un-viaje-al-pasado/">Leer más</a></p>
+<p>La entrada <a rel="nofollow" href="https://recabandohistorias.github.io/content/viaje-al-pasado/">Viaje al pasado</a> se publicó primero en <a rel="nofollow" href="https://recabandohistorias.github.io/content/">Recabando historias</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://recabandohistorias.github.io/content/viaje-al-pasado/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

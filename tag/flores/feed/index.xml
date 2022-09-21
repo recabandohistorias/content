@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>flores &#8211; Recabando historias</title>
+	<atom:link href="https://recabandohistorias.github.io/content/tag/flores/feed/" rel="self" type="application/rss+xml" />
+	<link>https://recabandohistorias.github.io/content/</link>
+	<description>Todo sobre historias, relatos y otras creaciones</description>
+	<lastBuildDate>Thu, 16 Dec 2021 04:56:42 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.10</generator>
+
+<image>
+	<url>https://recabandohistorias.github.io/content/wp-content/uploads/2020/10/cropped-Logolacre-2-32x32.png</url>
+	<title>flores &#8211; Recabando historias</title>
+	<link>https://recabandohistorias.github.io/content/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Flor otoñal</title>
+		<link>https://recabandohistorias.github.io/content/otono/</link>
+					<comments>https://recabandohistorias.github.io/content/otono/#respond</comments>
+		
+		<dc:creator><![CDATA[MQ]]></dc:creator>
+		<pubDate>Sat, 23 Oct 2021 04:57:12 +0000</pubDate>
+				<category><![CDATA[Otros]]></category>
+		<category><![CDATA[flores]]></category>
+		<category><![CDATA[otoño]]></category>
+		<guid isPermaLink="false">https://recabandohistorias.github.io/content/?p=518</guid>
+
+					<description><![CDATA[<p>Recuerdo esos tiempos en los que disfrutábamos de la tranquilidad del campo, a media tarde degustando los frutos&#8230; Ver mas</p>
+<p>La entrada <a rel="nofollow" href="https://recabandohistorias.github.io/content/otono/">Flor otoñal</a> se publicó primero en <a rel="nofollow" href="https://recabandohistorias.github.io/content/">Recabando historias</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://recabandohistorias.github.io/content/wp-content/uploads/2021/10/Flor-otonal-1024x768.jpg" alt="flor" class="wp-image-519" width="610" height="457" srcset="https://recabandohistorias.github.io/content/wp-content/uploads/2021/10/Flor-otonal-1024x768.jpg 1024w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/10/Flor-otonal-300x225.jpg 300w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/10/Flor-otonal-768x576.jpg 768w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/10/Flor-otonal-1536x1152.jpg 1536w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/10/Flor-otonal-2048x1536.jpg 2048w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/10/Flor-otonal-900x675.jpg 900w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/10/Flor-otonal-scaled.jpg 1280w" sizes="(max-width: 610px) 100vw, 610px" /></figure>
+
+
+
+<p class="has-text-align-center">Recuerdo esos tiempos en los que disfrutábamos de la tranquilidad del campo, a media tarde degustando los frutos&#8230; </p>
+
+
+
+<p class="has-text-align-center"><a href="https://recabandohistorias.github.io/content/flor-otonal/">Ver mas</a></p>
+<p>La entrada <a rel="nofollow" href="https://recabandohistorias.github.io/content/otono/">Flor otoñal</a> se publicó primero en <a rel="nofollow" href="https://recabandohistorias.github.io/content/">Recabando historias</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://recabandohistorias.github.io/content/otono/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

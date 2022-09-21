@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>poder sobrenatural &#8211; Recabando historias</title>
+	<atom:link href="https://recabandohistorias.github.io/content/tag/poder-sobrenatural/feed/" rel="self" type="application/rss+xml" />
+	<link>https://recabandohistorias.github.io/content/</link>
+	<description>Todo sobre historias, relatos y otras creaciones</description>
+	<lastBuildDate>Mon, 12 Jul 2021 05:24:45 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.10</generator>
+
+<image>
+	<url>https://recabandohistorias.github.io/content/wp-content/uploads/2020/10/cropped-Logolacre-2-32x32.png</url>
+	<title>poder sobrenatural &#8211; Recabando historias</title>
+	<link>https://recabandohistorias.github.io/content/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Vientos y dominios</title>
+		<link>https://recabandohistorias.github.io/content/viento/</link>
+					<comments>https://recabandohistorias.github.io/content/viento/#respond</comments>
+		
+		<dc:creator><![CDATA[MQ]]></dc:creator>
+		<pubDate>Mon, 12 Jul 2021 05:09:10 +0000</pubDate>
+				<category><![CDATA[Fantasía]]></category>
+		<category><![CDATA[Misterio]]></category>
+		<category><![CDATA[poder sobrenatural]]></category>
+		<guid isPermaLink="false">https://recabandohistorias.github.io/content/?p=509</guid>
+
+					<description><![CDATA[<p>Aquel hombre viejo parecía cambiar la dirección del viento, sentado en medio del desierto&#8230; Ver más</p>
+<p>La entrada <a rel="nofollow" href="https://recabandohistorias.github.io/content/viento/">Vientos y dominios</a> se publicó primero en <a rel="nofollow" href="https://recabandohistorias.github.io/content/">Recabando historias</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="765" height="1024" src="https://recabandohistorias.github.io/content/wp-content/uploads/2021/07/desierto-hombreWeb-765x1024.jpg" alt="" class="wp-image-507" srcset="https://recabandohistorias.github.io/content/wp-content/uploads/2021/07/desierto-hombreWeb-765x1024.jpg 765w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/07/desierto-hombreWeb-224x300.jpg 224w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/07/desierto-hombreWeb-768x1028.jpg 768w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/07/desierto-hombreWeb-1147x1536.jpg 1147w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/07/desierto-hombreWeb-1530x2048.jpg 1530w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/07/desierto-hombreWeb-900x1205.jpg 900w, https://recabandohistorias.github.io/content/wp-content/uploads/2021/07/desierto-hombreWeb-scaled.jpg 1280w" sizes="(max-width: 765px) 100vw, 765px" /></figure>
+
+
+
+<p class="has-text-align-center">Aquel hombre viejo parecía cambiar la dirección del viento, sentado en medio del desierto&#8230; </p>
+
+
+
+<p class="has-text-align-center"><a href="https://recabandohistorias.github.io/content/vientos-y-dominios/">Ver más</a></p>
+<p>La entrada <a rel="nofollow" href="https://recabandohistorias.github.io/content/viento/">Vientos y dominios</a> se publicó primero en <a rel="nofollow" href="https://recabandohistorias.github.io/content/">Recabando historias</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://recabandohistorias.github.io/content/viento/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
